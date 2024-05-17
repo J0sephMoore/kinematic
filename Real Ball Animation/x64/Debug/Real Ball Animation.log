@@ -1,0 +1,3 @@
+﻿  Ball1.cpp
+C:\Users\lab6128\source\repos\Real Ball Animation\Ball1.cpp(10,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Real Ball Animation.vcxproj -> C:\Users\lab6128\source\repos\Real Ball Animation\x64\Debug\Real Ball Animation.exe
